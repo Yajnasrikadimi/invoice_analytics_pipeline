@@ -1,0 +1,113 @@
+invoice_id,customer,category,amount,tax,date,status
+INV00041,Maple Foods,Marketing,2114.4,169.15,2025-04-11,Paid
+INV00058,Orbit Labs,Software,,59.3,2025-11-20,Pending
+INV00062,Summit Group,Hardware,,334.83,2026-06-26,Paid
+INV00100,Pinnacle Co,Office Supplies,2376.75,190.14,2026-09-02,Paid
+INV00118,Zenith LLC,Hardware,1753.75,140.3,not a date,Paid
+INV00140,DataWorks,Hardware,2812.02,224.96,2026-07-18,Paid
+INV00156,InnovateCorp,Software,1118.16,89.45,not a date,Paid
+INV00164,SmartSystems,Consulting,3528.7,282.3,not a date,Paid
+INV00344,Vertex Corp,Hardware,3077.11,246.17,2025-05-10,Paid
+INV00347,Alpha LLC,Consulting,476.74,38.14,2026-02-12,Paid
+INV00371,Orbit Labs,Software,,171.3,2026-07-13,Paid
+INV00372,Nova Retail,Software,4787.59,383.01,not a date,Paid
+INV00374,BlueSky Ltd,Software,4317.81,345.42,2026-01-15,Paid
+INV00430,SmartSystems,Hardware,,258.38,2025-08-15,Paid
+INV00471,Zenith LLC,Hardware,1862.26,148.98,2025-04-11,Unpaid
+INV00498,BlueSky Ltd,Marketing,2748.76,219.9,2025-05-24,Unpaid
+INV00543,InnovateCorp,Software,121.81,9.74,2025-03-06,Paid
+INV00564,Vertex Corp,Marketing,,397.63,2025-08-03,Unpaid
+INV00586,Summit Group,Marketing,,127.76,2026-03-16,Unpaid
+INV00687,Nova Retail,Marketing,597.0,47.76,not a date,Unpaid
+INV00812,SmartSystems,Consulting,4825.73,386.06,not a date,Unpaid
+INV00820,Maple Foods,Software,,76.07,2026-02-01,Unpaid
+INV00874,InnovateCorp,Software,,335.22,2026-08-04,Pending
+INV00899,BlueSky Ltd,Consulting,,231.5,2026-01-10,Paid
+INV01088,BlueSky Ltd,Software,4428.67,354.29,2026-01-25,Paid
+INV01107,GreenLeaf Inc,Software,,245.4,2025-08-26,Paid
+INV01151,GreenLeaf Inc,Software,981.55,78.52,not a date,Pending
+INV01412,Maple Foods,Hardware,,167.65,2025-03-13,Pending
+INV01422,Alpha LLC,Software,3179.02,254.32,not a date,Unpaid
+INV01653,InnovateCorp,Consulting,,73.93,2026-03-10,Pending
+INV01654,ABC Corp,Software,,225.62,2026-04-21,Pending
+INV01678,Summit Group,Marketing,,353.35,2025-07-16,Unpaid
+INV01719,Nova Retail,Software,1130.16,90.41,2026-01-17,Unpaid
+INV01740,ABC Corp,Consulting,449.61,35.97,not a date,Paid
+INV01743,SmartSystems,Software,141.82,11.35,not a date,Unpaid
+INV01830,Orbit Labs,Marketing,4084.32,326.75,2025-01-29,Unpaid
+INV02010,Orbit Labs,Consulting,1360.99,108.88,not a date,Paid
+INV02058,Alpha LLC,Software,2175.98,174.08,2025-04-05,Paid
+INV02092,Pinnacle Co,Travel,2395.59,191.65,2026-04-22,Paid
+INV02103,DataWorks,Office Supplies,4518.04,361.44,2025-11-01,Paid
+INV02132,GreenLeaf Inc,Office Supplies,935.01,74.8,not a date,Paid
+INV02195,BlueSky Ltd,Software,2393.94,191.52,not a date,Paid
+INV02205,BlueSky Ltd,Software,3686.81,294.94,2025-07-13,Paid
+INV02215,Nova Retail,Hardware,162.4,12.99,2025-01-22,Paid
+INV02235,Orbit Labs,Software,3156.6,252.53,2026-05-14,Paid
+INV02251,Vertex Corp,Hardware,2838.65,227.09,not a date,Unpaid
+INV02276,Vertex Corp,Software,3604.39,288.35,2025-11-07,Pending
+INV02278,Alpha LLC,Consulting,3068.62,245.49,2026-06-04,Unpaid
+INV02386,BlueSky Ltd,Software,4235.92,338.87,2026-01-29,Paid
+INV02427,BlueSky Ltd,Travel,4206.93,336.55,not a date,Paid
+INV02444,GreenLeaf Inc,Software,4716.26,377.3,2025-05-25,Paid
+INV02449,SmartSystems,Consulting,,349.6,2026-07-30,Unpaid
+INV02452,XYZ Inc,Hardware,2185.94,174.88,not a date,Paid
+INV02480,BlueSky Ltd,Consulting,,226.7,2025-07-02,Paid
+INV02605,ABC Corp,Hardware,,217.4,2025-03-03,Paid
+INV02609,Alpha LLC,Hardware,,51.82,2025-12-14,Paid
+INV02612,DataWorks,Software,3809.2,304.74,not a date,Paid
+INV02643,SmartSystems,Travel,3261.87,260.95,not a date,Paid
+INV02665,ABC Corp,Consulting,,31.25,2025-10-10,Paid
+INV02687,Pinnacle Co,Hardware,3862.12,308.97,not a date,Unpaid
+INV02708,BlueSky Ltd,Software,4133.93,330.71,2026-06-16,Pending
+INV02728,Alpha LLC,Software,,319.32,2025-02-04,Unpaid
+INV02759,XYZ Inc,Software,1200.7,96.06,2026-09-10,Pending
+INV02886,DataWorks,Hardware,2003.37,160.27,not a date,Paid
+INV02900,XYZ Inc,Hardware,1607.05,128.56,2025-11-20,Paid
+INV02921,Orbit Labs,Software,,22.11,2026-01-20,Paid
+INV02929,Alpha LLC,Consulting,3125.56,250.04,not a date,Unpaid
+INV03095,Pinnacle Co,Software,,171.59,2025-05-30,Unpaid
+INV03136,InnovateCorp,Hardware,,166.37,2026-02-19,Paid
+INV03149,Vertex Corp,Marketing,,232.46,2025-06-30,Paid
+INV03167,Vertex Corp,Software,,311.83,2026-08-28,Unpaid
+INV03266,Alpha LLC,Software,2072.05,165.76,2026-05-11,Unpaid
+INV03331,Summit Group,Software,2120.56,169.64,2026-07-16,Paid
+INV03345,Zenith LLC,Marketing,677.59,54.21,2026-01-11,Unpaid
+INV03369,XYZ Inc,Hardware,3643.14,291.45,2026-08-23,Paid
+INV03401,InnovateCorp,Office Supplies,1016.08,81.29,not a date,Unpaid
+INV03419,BlueSky Ltd,Software,1739.48,139.16,not a date,Unpaid
+INV03431,Summit Group,Software,2095.51,167.64,not a date,Unpaid
+INV03490,ABC Corp,Hardware,,312.87,2026-06-21,Unpaid
+INV03531,Pinnacle Co,Marketing,2440.25,195.22,2025-07-11,Paid
+INV03542,XYZ Inc,Software,250.11,20.01,not a date,Paid
+INV03551,BlueSky Ltd,Software,4730.62,378.45,not a date,Paid
+INV03657,XYZ Inc,Travel,232.51,18.6,2025-06-09,Paid
+INV03685,Nova Retail,Travel,,325.47,2026-03-24,Pending
+INV03708,InnovateCorp,Hardware,4016.01,321.28,2026-09-22,Paid
+INV03803,Vertex Corp,Marketing,,218.61,2026-05-19,Unpaid
+INV03851,ABC Corp,Hardware,,212.93,2026-07-30,Unpaid
+INV03854,Vertex Corp,Software,3073.97,245.92,not a date,Paid
+INV03871,Zenith LLC,Software,1895.56,151.64,not a date,Paid
+INV03898,DataWorks,Marketing,,25.8,2026-09-18,Paid
+INV04033,InnovateCorp,Marketing,,236.74,2025-06-11,Pending
+INV04083,Orbit Labs,Consulting,3883.63,310.69,not a date,Paid
+INV04091,XYZ Inc,Consulting,4673.39,373.87,not a date,Paid
+INV04174,Zenith LLC,Consulting,1368.82,109.51,2025-04-15,Unpaid
+INV04197,Maple Foods,Software,4398.32,351.87,2026-05-30,Unpaid
+INV04269,SmartSystems,Software,2992.3,239.38,2026-03-25,Paid
+INV04283,Zenith LLC,Consulting,102.67,8.21,2026-07-23,Paid
+INV04292,DataWorks,Hardware,,387.55,2025-04-10,Paid
+INV04337,Summit Group,Hardware,,195.84,2025-06-16,Paid
+INV04351,Zenith LLC,Consulting,,246.81,2025-03-17,Unpaid
+INV04379,SmartSystems,Hardware,,256.08,2025-09-10,Paid
+INV04382,BlueSky Ltd,Office Supplies,,121.75,2026-09-21,Paid
+INV04429,DataWorks,Software,443.38,35.47,2026-07-11,Paid
+INV04495,Alpha LLC,Hardware,,135.31,2026-01-03,Unpaid
+INV04550,SmartSystems,Marketing,2950.99,236.08,not a date,Unpaid
+INV04695,GreenLeaf Inc,Hardware,492.75,39.42,2026-07-23,Paid
+INV04718,SmartSystems,Software,4828.49,386.28,2025-07-24,Unpaid
+INV04740,BlueSky Ltd,Marketing,,261.84,2025-10-28,Paid
+INV04785,Orbit Labs,Consulting,,142.75,2025-02-23,Paid
+INV04789,InnovateCorp,Software,4411.19,352.9,2026-07-07,Paid
+INV04824,XYZ Inc,Office Supplies,2143.07,171.45,not a date,Paid
+INV04976,InnovateCorp,Office Supplies,2661.32,212.91,2026-08-08,Unpaid

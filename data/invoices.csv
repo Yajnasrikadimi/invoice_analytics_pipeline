@@ -1,0 +1,11 @@
+invoice_id,customer,amount,tax,date,status
+INV001,ABC Corp,1200,96,2026-01-02,Paid
+INV002,XYZ Inc,900,72,2026-01-05,Unpaid
+INV003,TechSoft,1500,120,2026-01-08,Paid
+INV004,Alpha LLC,700,56,2026-01-10,Pending
+INV005,GlobalTech,2200,176,2026-01-15,Paid
+INV006,DataWorks,850,68,2026-01-18,Unpaid
+INV007,CloudNet,1800,144,2026-01-22,Paid
+INV008,SmartSystems,950,76,2026-01-25,Pending
+INV009,NextGen,1300,104,2026-01-28,Paid
+INV010,InnovateCorp,1100,88,2026-01-30,Unpaid
