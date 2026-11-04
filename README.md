@@ -34,6 +34,7 @@ and `anomaly.py` (Isolation Forest) on the cleaned data.
 | | |
 |---|---|
 | Dashboard | ![Dashboard](docs/dashboard.png) |
+| S3 raw folder | ![S3 raw](docs/s3_raw.png) |
 | S3 clean folder | ![S3](docs/s3_clean.png) |
 | Redshift KPI query | ![Redshift](docs/redshift_kpis.png) |
 
